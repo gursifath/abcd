@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/about_us"
+            android:icon="@drawable/ic_about_us"
+            android:title="About us" />
+
+        <item
+            android:id="@+id/nav_gallery"
+            android:icon="@drawable/gallery"
+            android:title="Gallery" />
+        <item
+            android:id="@+id/it_programme"
+            android:icon="@drawable/ic_menu_manage"
+            android:title="IT Programme" />
+
+        <item
+            android:id="@+id/nav_call"
+            android:icon="@drawable/ic_call_black_24dp"
+            android:title="Call us" />
+
+        <item
+            android:id="@+id/nav_email"
+            android:icon="@drawable/ic_email_black_24dp"
+            android:title="Email us" />
+
+        <item
+            android:id="@+id/visitus"
+            android:icon="@drawable/ic_visit_us"
+            android:title="Visit us"/>
+    </group>
+
+    <item android:title="Connect with us on:">
+        <menu>
+
+            <item
+                android:id="@+id/nav_website"
+                android:icon="@drawable/ic_menu_send"
+                android:title="Our Website"/>
+
+            <item
+                android:id="@+id/nav_twitter"
+                android:icon="@drawable/twitter"
+                android:title="Twitter" />
+
+            <item
+                android:id="@+id/nav_facebook"
+                android:icon="@drawable/facebook"
+                android:title="Facebook" />
+            <item
+                android:id="@+id/nav_insta"
+                android:icon="@drawable/instagram"
+                android:title="Instagram" />
+
+            <item
+                android:id="@+id/nav_blogger"
+                android:icon="@drawable/blogger"
+                android:title="Blogger" />
+
+            <item
+                android:id="@+id/nav_youtube"
+                android:icon="@drawable/youtube"
+                android:title="Youtube" />
+        </menu>
+    </item>
+
+</menu>

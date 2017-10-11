@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">Let\'s Share</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nothing"> </string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_front_page">FrontPage</string>
+    <string name="developer_info">Pursuing B.Tech in Information Technology from Delhi Technological University, erstwhile Delhi College of Engineering.</string>
+    <string name="developer_name">GURSIFATH BHASIN"</string>
+    <string name="address">Head Office Address: 16/97 A, Vikram Vihar, Lajpat Nagar IV, Delhi-110024</string>
+    <string name="it_programme">Improves the job readiness of youth from disadvantaged communities by offering training in skills and vocations related to digital learning to equip them with the necessary professional and soft skills so that they can take up placements with dignity.</string>
+    <string name="subtitle">Climbing to new heights</string>
+    <string name="it_sub1">To broaden horizons and bring IT close to the lives of underserved rural and urban communities in and around Delhi and NCR, and thus empower them for greater job prospects.</string>
+    <string name="it_sub2">To improve the economic condition of the needy and deserving, who will receive training in our centers by linking them with the job market through our placement cell and to provide open access to the skills training to the public at large at low cost.</string>
+    <string name="it_head1">Program Vision</string>
+    <string name="it_head2">Goal</string>
+    <string name="blank">                                    </string>
+    <string name="heading1">Why we exist</string>
+    <string name="about1">To transform the lives of children and youth from underserved sections of society, through meaningful interventions for development at every step of their journey towards a dignified life.</string>
+    <string name="heading2">Our vision</string>
+    <string name="about2">To regenerate the rhythm of life of the disadvantaged. </string>
+    <string name="heading3">Our mission </string>
+    <string name="about3">A nurturing home for every orphaned child, an opportunity for higher education for every adult, the dignity of self reliance and the desire to give back to society. </string>
+    <string name="motivation">The developer has been associated with Udayan Care for more than an year and strongly supports its programmes and initiatives. She feels that one needs to give back to the society and act as a bridge for change. The same motivation has led to the development of this Mobile Application for use by the students attending the workshops conducted by its IT Department.</string>
+    <string name="we">Udayan is a Sanskrit word meaning \'Eternal Sunshine\'. Udayan Care aims to bring sunshine into the lives of underserved sections of society that require intervention. Registered in 1994 as a Public Charitable Trust, Udayan Care works to empower vulnerable children, women and youth, in 14 cities across 9 states of India.</string>
+    <string name="misc">Starting with the establishment of just one small family home (Ghar) for orphaned and abandoned children in Sant Nagar, Delhi in 1996, Udayan Care has spread its work for disadvantaged groups during the last 23 years by establishing more family homes, helping girls\' education, providing vocational training etc. </string>
+    <string name="misc2">To date, Udayan Care has nurtured over 15,000 young minds. This has been made possible only through the support of like-minded people, donors and partners who believed in Udayan Care\'s work and mission.</string>
+    <string name="testimoniall">I\'m a currently pursuing B.Tech. from the prestigious Delhi Technological University, erstwhile Delhi College of Engineering. </string>
+    <string name="testimonial2">My association with Udayan Care began in the summer of 2016 when I wanted to spend my vacations doing something constructive. Udayan Care gave me the opportunity to directly interact with 4 bright students and teach them Science and Mathematics. Since then i\'ve been wanting to work for this organization whenever i get time. The sincerity with which Udayan Care, under the guidance of Dr. Kiran Modi, strives towards achieving its goals is commendable and I\'m proud to play a small but significant role in the same.</string>
+</resources>

@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <!--<ViewFlipper-->
+        <!--android:layout_width="match_parent"-->
+        <!--android:layout_height="match_parent"-->
+        <!--android:id="@+id/image_view_flipper">-->
+        <!--<ImageView-->
+            <!--android:id="@+id/image_one"-->
+            <!--android:layout_width="wrap_content"-->
+            <!--android:layout_height="wrap_content"-->
+            <!--android:layout_gravity="center"-->
+            <!--android:adjustViewBounds="true"-->
+            <!--android:contentDescription="@string/app_name"-->
+            <!--android:src="@drawable/bear" />-->
+        <!--<ImageView-->
+            <!--android:id="@+id/image_two"-->
+            <!--android:layout_width="wrap_content"-->
+            <!--android:layout_height="wrap_content"-->
+            <!--android:layout_gravity="center"-->
+            <!--android:adjustViewBounds="true"-->
+            <!--android:contentDescription="@string/app_name"-->
+            <!--android:src="@drawable/bonobo" />-->
+        <!--<ImageView-->
+            <!--android:id="@+id/image_three"-->
+            <!--android:layout_width="wrap_content"-->
+            <!--android:layout_height="wrap_content"-->
+            <!--android:layout_gravity="center"-->
+            <!--android:adjustViewBounds="true"-->
+            <!--android:contentDescription="@string/app_name"-->
+            <!--android:src="@drawable/eagle" />-->
+        <!--<ImageView-->
+            <!--android:id="@+id/image_four"-->
+            <!--android:layout_width="wrap_content"-->
+            <!--android:layout_height="wrap_content"-->
+            <!--android:layout_gravity="center"-->
+            <!--android:adjustViewBounds="true"-->
+            <!--android:contentDescription="@string/app_name"-->
+            <!--android:src="@drawable/horse" />-->
+        <!--<ImageView-->
+            <!--android:id="@+id/image_five"-->
+            <!--android:layout_width="wrap_content"-->
+            <!--android:layout_height="wrap_content"-->
+            <!--android:layout_gravity="center"-->
+            <!--android:adjustViewBounds="true"-->
+            <!--android:contentDescription="@string/app_name"-->
+            <!--android:src="@drawable/owl" />-->
+        <!--<ImageView-->
+            <!--android:id="@+id/image_six"-->
+            <!--android:layout_width="wrap_content"-->
+            <!--android:layout_height="wrap_content"-->
+            <!--android:layout_gravity="center"-->
+            <!--android:adjustViewBounds="true"-->
+            <!--android:contentDescription="@string/app_name"-->
+            <!--android:src="@drawable/wolf" />-->
+    <!--</ViewFlipper>-->
+</LinearLayout>

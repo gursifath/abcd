@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.bhasingursifath.feedbackform">
+
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.CALL_PHONE" />
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+
+    <application
+        android:allowBackup="true"
+        android:hardwareAccelerated="false"
+        android:icon="@drawable/logo_transparent"
+        android:label="@string/app_name"
+        android:largeHeap="true"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme.NoActionBar">
+        <activity
+            android:name=".MainActivity"
+            android:label="@string/app_name"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".ReviewActivity"
+            android:parentActivityName=".MainActivity" />
+        <activity
+            android:name=".Main2Activity"
+            android:parentActivityName=".ReviewActivity" />
+        <activity
+            android:name=".PhotoActivity"
+            android:label="Gallery"
+            android:parentActivityName=".FrontPage"
+            android:theme="@style/AppTheme" />
+        <activity
+            android:name=".FrontPage"
+            android:label="@string/app_name"
+            android:theme="@style/AppTheme.NoActionBar">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name=".AboutUs"
+            android:label="About Us"
+            android:theme="@style/AppTheme"
+            android:parentActivityName=".FrontPage"/>
+
+        <activity
+            android:name=".IT_Programme"
+            android:label="IT Programme"
+            android:parentActivityName=".FrontPage"
+            android:theme="@style/AppTheme">
+        </activity>
+    </application>
+
+</manifest>

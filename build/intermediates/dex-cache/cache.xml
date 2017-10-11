@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\bhasingursifath\AndroidStudioProjects\FeedbackForm\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="e0e3727a10f4bce69d8a03a5ca7c37ec3f4089f0">
+        <dex dex="C:\Users\bhasingursifath\AndroidStudioProjects\FeedbackForm\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_9d57d788e2c88591126d2e10d22d91203cb89135\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\bhasingursifath\AndroidStudioProjects\FeedbackForm\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="C:\Users\bhasingursifath\AndroidStudioProjects\FeedbackForm\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_6c69d71d82155ff1cd9b959c1d4ea5c9cbd3305f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\bhasingursifath\.android\build-cache\8afdc708bb0ab6f73e8cf9d3017a882907ddeecd\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="a2af9c72ccaa4c5c049b500ca6ea664a4ce1f7d4">
+        <dex dex="C:\Users\bhasingursifath\AndroidStudioProjects\FeedbackForm\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_6eb3363259226acdf7d838d8564650afc3a42bbd\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\bhasingursifath\.android\build-cache\8afdc708bb0ab6f73e8cf9d3017a882907ddeecd\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="a2af9c72ccaa4c5c049b500ca6ea664a4ce1f7d4">
+        <dex dex="C:\Users\bhasingursifath\AndroidStudioProjects\FeedbackForm\app\build\intermediates\pre-dexed\debug\classes_6eb3363259226acdf7d838d8564650afc3a42bbd.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\bhasingursifath\.gradle\caches\modules-2\files-2.1\com.squareup.picasso\picasso\2.3.2\d6b7f0093cec6c9faf65dbfd6a6a345d0ed25e27\picasso-2.3.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="d6b7f0093cec6c9faf65dbfd6a6a345d0ed25e27">
+        <dex dex="C:\Users\bhasingursifath\AndroidStudioProjects\FeedbackForm\app\build\intermediates\pre-dexed\debug\picasso-2.3.2_6d947ffa71f06c7e97d9a5f2e1dd4991e2444698.jar" />
+    </item>
+
+</items>

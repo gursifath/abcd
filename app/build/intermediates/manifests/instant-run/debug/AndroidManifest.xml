@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.bhasingursifath.feedbackform"
+    android:versionCode="1"
+    android:versionName="1.0" >
+
+    <uses-sdk
+        android:minSdkVersion="17"
+        android:targetSdkVersion="25" />
+
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.CALL_PHONE" />
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+
+    <meta-data
+        android:name="android.support.VERSION"
+        android:value="25.3.1" />
+
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+
+    <application
+        android:allowBackup="true"
+        android:hardwareAccelerated="false"
+        android:icon="@mipmap/logo_logo"
+        android:label="@string/app_name"
+        android:largeHeap="true"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme.NoActionBar" >
+        <activity
+            android:name="com.example.bhasingursifath.feedbackform.MainActivity"
+            android:label="@string/app_name"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name="com.example.bhasingursifath.feedbackform.ReviewActivity"
+            android:parentActivityName="com.example.bhasingursifath.feedbackform.MainActivity" />
+        <activity
+            android:name="com.example.bhasingursifath.feedbackform.Main2Activity"
+            android:parentActivityName="com.example.bhasingursifath.feedbackform.ReviewActivity" />
+        <activity
+            android:name="com.example.bhasingursifath.feedbackform.PhotoActivity"
+            android:label="Gallery"
+            android:parentActivityName="com.example.bhasingursifath.feedbackform.FrontPage"
+            android:theme="@style/AppTheme" />
+        <activity
+            android:name="com.example.bhasingursifath.feedbackform.FrontPage"
+            android:label="@string/app_name"
+            android:theme="@style/AppTheme.NoActionBar" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="com.example.bhasingursifath.feedbackform.AboutUs"
+            android:label="About Us"
+            android:parentActivityName="com.example.bhasingursifath.feedbackform.FrontPage"
+            android:theme="@style/AppTheme" />
+        <activity
+            android:name="com.example.bhasingursifath.feedbackform.IT_Programme"
+            android:label="IT Programme"
+            android:parentActivityName="com.example.bhasingursifath.feedbackform.FrontPage"
+            android:theme="@style/AppTheme" >
+        </activity>
+
+        <provider
+            android:name="com.android.tools.fd.runtime.InstantRunContentProvider"
+            android:authorities="com.example.bhasingursifath.feedbackform.com.android.tools.fd.runtime.InstantRunContentProvider"
+            android:multiprocess="true" />
+    </application>
+
+</manifest>
